@@ -21,4 +21,4 @@ Throw weapon with the D button.
 Use melee attack with the D button.(only works when unarmed)
 
 # Note
-the ice gun has 2 modes. One with low damage, high fire rate and a freezing effect, the other with high damage, low fire rate, and a bullet that attaches to walls, making it useful for platform puzzles.
+the ice gun has 2 modes. One with low damage, high fire rate and a freezing effect, the other with high damage, low fire rate, and a bullet that attaches to walls and becomes a platform to step on for a brief period, making it useful for puzzles.
